@@ -4,3 +4,4 @@ Makefile
 Tests
 cmake_install.cmake
 lib/
+googletest
